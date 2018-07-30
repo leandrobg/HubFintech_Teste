@@ -1,0 +1,5 @@
+C:\repo\Teste_HubFintech\Teste_HubFintech.Model\bin\Debug\Teste_HubFintech.Model.dll
+C:\repo\Teste_HubFintech\Teste_HubFintech.Model\bin\Debug\Teste_HubFintech.Model.pdb
+C:\repo\Teste_HubFintech\Teste_HubFintech.Model\obj\Debug\Teste_HubFintech.Model.csproj.CoreCompileInputs.cache
+C:\repo\Teste_HubFintech\Teste_HubFintech.Model\obj\Debug\Teste_HubFintech.Model.dll
+C:\repo\Teste_HubFintech\Teste_HubFintech.Model\obj\Debug\Teste_HubFintech.Model.pdb

@@ -1,0 +1,15 @@
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\Teste_HubFintech.Business.dll
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\Teste_HubFintech.Business.pdb
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\Newtonsoft.Json.dll
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\Teste_HubFintech.Data.dll
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\Teste_HubFintech.Model.dll
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\System.Data.SQLite.dll
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\Teste_HubFintech.Data.pdb
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\Teste_HubFintech.Model.pdb
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\Newtonsoft.Json.xml
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\System.Data.SQLite.xml
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\bin\Debug\System.Data.SQLite.dll.config
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\obj\Debug\Teste_HubFintech.Business.csprojResolveAssemblyReference.cache
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\obj\Debug\Teste_HubFintech.Business.csproj.CoreCompileInputs.cache
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\obj\Debug\Teste_HubFintech.Business.dll
+C:\repo\Teste_HubFintech\Teste_HubFintech.Business\obj\Debug\Teste_HubFintech.Business.pdb
