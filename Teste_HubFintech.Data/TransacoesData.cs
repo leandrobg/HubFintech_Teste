@@ -209,12 +209,14 @@ namespace Teste_HubFintech.Data
                 query.AppendLine("SELECT AporteId ")
                      .AppendLine("FROM tbTransacoes ")
                      .AppendLine("ORDER BY AporteId DESC LIMIT 1");
-                string retorno;
+                string retorno = "";
                 using (SQLiteCommand cmd = new SQLiteCommand(query.ToString(), objCon.conn))
                 {
-                    int novoAporteId = 0;
-                    retorno = cmd.ExecuteScalar().ToString();
-                    int.TryParse(retorno.Replace("APT", ""), out novoAporteId);
+                    object retornoExecute = cmd.ExecuteScalar();
+                    if (retornoExecute == null)
+                        retorno = "APT000000";
+
+                    int.TryParse(retorno.Replace("APT", ""), out int novoAporteId);
                     novoAporteId++;
                     retorno = "APT" + novoAporteId.ToString().PadLeft(6, '0');
                 }

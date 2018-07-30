@@ -9,3 +9,14 @@ C:\repo\Teste_HubFintech\Teste_HubFintech.Data\obj\Debug\Teste_HubFintech.Data.c
 C:\repo\Teste_HubFintech\Teste_HubFintech.Data\obj\Debug\Teste_HubFintech.Data.csproj.CoreCompileInputs.cache
 C:\repo\Teste_HubFintech\Teste_HubFintech.Data\obj\Debug\Teste_HubFintech.Data.dll
 C:\repo\Teste_HubFintech\Teste_HubFintech.Data\obj\Debug\Teste_HubFintech.Data.pdb
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\bin\Debug\Teste_HubFintech.Data.dll
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\bin\Debug\Teste_HubFintech.Data.pdb
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\bin\Debug\System.Data.SQLite.dll
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\bin\Debug\Teste_HubFintech.Model.dll
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\bin\Debug\Teste_HubFintech.Model.pdb
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\bin\Debug\System.Data.SQLite.xml
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\bin\Debug\System.Data.SQLite.dll.config
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\obj\Debug\Teste_HubFintech.Data.csprojResolveAssemblyReference.cache
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\obj\Debug\Teste_HubFintech.Data.csproj.CoreCompileInputs.cache
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\obj\Debug\Teste_HubFintech.Data.dll
+C:\repo\HubFintech_Teste\Teste_HubFintech.Data\obj\Debug\Teste_HubFintech.Data.pdb
