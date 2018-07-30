@@ -13,11 +13,6 @@ namespace Teste_HubFintech.Controllers
     {
         TransacoesBusiness tBusiness = new TransacoesBusiness();
 
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
         [HttpGet]
         public string Get(int transacaoId)
         {
