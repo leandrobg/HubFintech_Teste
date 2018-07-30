@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_HubFintech", "Teste_HubFintech\Teste_HubFintech.csproj", "{B3267007-EB0F-4A04-94AB-DED20E0AD6D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_HubFintech.Tests", "Teste_HubFintech.Tests\Teste_HubFintech.Tests.csproj", "{BF3402D7-26F1-47B8-8B6A-6DE74CED9E84}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_HubFintech.Data", "Teste_HubFintech.Data\Teste_HubFintech.Data.csproj", "{95F8EE54-D518-44CA-B77D-6E9C185AAFF3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_HubFintech.Model", "Teste_HubFintech.Model\Teste_HubFintech.Model.csproj", "{AD642D5F-0F8E-464D-99F0-60796DFC4150}"
@@ -23,10 +21,6 @@ Global
 		{B3267007-EB0F-4A04-94AB-DED20E0AD6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3267007-EB0F-4A04-94AB-DED20E0AD6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3267007-EB0F-4A04-94AB-DED20E0AD6D1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BF3402D7-26F1-47B8-8B6A-6DE74CED9E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF3402D7-26F1-47B8-8B6A-6DE74CED9E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BF3402D7-26F1-47B8-8B6A-6DE74CED9E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BF3402D7-26F1-47B8-8B6A-6DE74CED9E84}.Release|Any CPU.Build.0 = Release|Any CPU
 		{95F8EE54-D518-44CA-B77D-6E9C185AAFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{95F8EE54-D518-44CA-B77D-6E9C185AAFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95F8EE54-D518-44CA-B77D-6E9C185AAFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
